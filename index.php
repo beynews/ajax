@@ -69,7 +69,7 @@
         <br>
         <div class="container">
             <h2 class="alert alert-success text-center">
-               Data Mahasantri Islamic Digital Boarding School
+               Data Mahasantri Islamic Digital Boarding College
             </h2>
             <div class="row">
                 <div class="col-5">
